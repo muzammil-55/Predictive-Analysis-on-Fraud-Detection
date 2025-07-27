@@ -1,8 +1,8 @@
 # Predictive-Analysis-on-Fraud-Detection
-Academic Project
+Academic MINI Project
 
 🛡️ Fraud Detection using Random Forest (Sample Code)
-This mini project demonstrates how to build a fraud detection model using a Random Forest Classifier trained on a synthetic dataset created with make_classification.
+This mini project demonstrates how to build a fraud detection model using a Random Forest Classifier
 
 🧠 Technologies Used
 Python
@@ -35,11 +35,10 @@ Confusion Matrix:
  [  15   59]]
 (Note: Actual values may vary slightly each time due to randomness.)
 
-📁 Dataset
+Dataset
 The dataset is synthetically generated using sklearn.datasets.make_classification() with:
 10,000 samples
 20 features
 Imbalanced class distribution (99% non-fraud, 1% fraud)
 
-Author
 Muzammil Khan
